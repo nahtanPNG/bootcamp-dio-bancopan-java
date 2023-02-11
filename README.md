@@ -21,4 +21,6 @@
 ## LINKS ÚTEIS
 [BOOTCAMP BANCO PAN JAVA DEVELOPER](https://web.dio.me/track/banco-pan-java-developer)
 
+[ATALHOS INTELLIJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
+
 </div>
