@@ -31,7 +31,7 @@ public class Exemplo {
 
         System.out.println("c1 == c2 " + (c1 == c2));
         System.out.println("c1 != c2 " + (c1 != c2));
-        System.out.println("c1 > c2 " + (c1 > c2));
+        System.out.println("c1 > c2 " + (c1 > c2)); //Char é um código que representa uma letra
         System.out.println("c1 <= c2 " + (c1 <= c2));
 
         System.out.println("s1 == s2 " + (s1 == s2));
