@@ -1,7 +1,6 @@
 <div align="center">
-
-# BANCO PAN JAVA DEVELOPER BOOTCAMP
-<img height="250em" src="https://user-images.githubusercontent.com/93049899/218183912-ef8df551-0b66-4ef0-afbc-7aa553c67b5c.png"/> 
+<h1 align=center> <img height="170em" src="https://user-images.githubusercontent.com/93049899/218183912-ef8df551-0b66-4ef0-afbc-7aa553c67b5c.png" align=center>  BANCO PAN JAVA DEVELOPER BOOTCAMP</h1>
+ 
 
 ## SOBRE
  ### Este repositório será usado para compartilhar o meu progresso durante o bootcamp.
