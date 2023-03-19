@@ -9,9 +9,9 @@
 
   #### ✅Prepare-se para a jornada </br>
   #### ✅Princípios Do Desenvolvimento De Software </br>
-  #### ⚠Conhecendo a Linguagem de Programação Java </br>
-  #### ❎Dominando Algoritmos Básicos com Desafios de Código Java </br>
-  #### ❎Programação Orientada a Objetos com Java </br>
+  #### ✅Conhecendo a Linguagem de Programação Java </br>
+  #### ✅Dominando Algoritmos Básicos com Desafios de Código Java </br>
+  #### ⚠Programação Orientada a Objetos com Java </br>
   #### ❎Trabalhando com Banco de Dados SQL e NoSQL </br>
   #### ❎Ganhando Produtividade com Spring Framework </br>
   #### ❎Dominando Algoritmos Intermediários com Desafios de Código Java </br>
